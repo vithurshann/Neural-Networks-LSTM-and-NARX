@@ -3,9 +3,9 @@
 Comparative Analysis of Long Short-Term Memory (LSTM) and NARX in Stock prediction<br/>
 
 Files in Repository <br/>  
-1. Test Data - TestData.csv<br/> 
-2. TestFinalModel.m - RUN this file to test the best models<br/>
-3. TrainFinalModel.m - contains the best NARX and LSTM models used for training<br/>
+1. Test Data - TestData.csv <br/> 
+2. TestFinalModel.m - RUN this file to test the best models <br/>
+3. TrainFinalModel.m - contains the best NARX and LSTM models used for training <br/>
 
 NARX (Open functions 5 in order to run scripts 6, 7, 8 and 9) <br/>
 4. NARX_GetData.m = Function used to get data for train the NARX models<br/>
