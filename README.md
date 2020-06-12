@@ -8,11 +8,11 @@ Files in Repository <br/>
 3. TrainFinalModel.m - contains the best NARX and LSTM models used for training <br/>
 
 NARX (Open functions 5 in order to run scripts 6, 7, 8 and 9) <br/>
-4. NARX_GetData.m = Function used to get data for train the NARX models<br/>
-5. NARX_BaseLineModel.m - Script file used to create NARX baseline model by following MathsWork tutorial and NNStart<br/>
-6. NARX_HyperParameterOpt_StepAhead.m - Script file used to find optimal hyper-parameter through individual grid search for Step-Ahead network<br/>
-7. NARX_HyperParameterOpt_ClosedLoop.m - Script file used to find optimal hyper-parameter through individual grid search for Closed loop Network<br/>
-8. NARX_HyperParameterTuning.m - Script file used to find the optimal hyper-parameter through typical grid search<br/>
+ 4. NARX_GetData.m = Function used to get data for train the NARX models<br/>
+ 5. NARX_BaseLineModel.m - Script file used to create NARX baseline model by following MathsWork tutorial and NNStart<br/>
+ 6. NARX_HyperParameterOpt_StepAhead.m - Script file used to find optimal hyper-parameter through individual grid search for Step-Ahead network<br/>
+ 7. NARX_HyperParameterOpt_ClosedLoop.m - Script file used to find optimal hyper-parameter through individual grid search for Closed loop Network<br/>
+ 8. NARX_HyperParameterTuning.m - Script file used to find the optimal hyper-parameter through typical grid search<br/>
 
 LSTM (Open functions 10 and 11 in order to run scripts 11 and 12) <br/>
 9. LSTM_ForwardChaining.m - Function used to split the data into 3-fold for forward chaining <br/>
