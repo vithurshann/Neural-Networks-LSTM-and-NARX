@@ -1,7 +1,7 @@
 # Neural-Networks-LSTM-and-NARX
 
 %%%%
-Comparative Analysis of Long Short-Term Memory (LSTM) and NARX in Stock prediction
+Comparative Analysis of Long Short-Term Memory (LSTM) and NARX in Stock prediction   
 By: Vithurshan Vijayachandran
 %%%%
 
